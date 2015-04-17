@@ -1,5 +1,5 @@
 {
-  "name": "react-treeview",
+  "name": "@mtfe/react-treeview",
   "version": "0.3.11",
   "description": "Easy, light, flexible tree view made with React.",
   "main": "react-treeview.js",
@@ -31,7 +31,7 @@
   },
   "homepage": "https://github.com/chenglou/react-treeview",
   "dependencies": {
-    "react": "^0.12.1"
+    "react": "^0.13.1"
   },
   "devDependencies": {
     "huxley": "^0.8.1",
